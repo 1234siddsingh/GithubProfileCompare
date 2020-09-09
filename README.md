@@ -14,3 +14,7 @@ A react web app which lets people compare their Github profiles
 
 # How to view the webpage:
 - Run the project in any code editor to see the webpage.
+
+![Github Demo](https://github.com/1234siddsingh/GithubProfileCompare/blob/master/Siddharth%20Kumar.png)
+
+![GithubCompare Demo](https://github.com/1234siddsingh/GithubProfileCompare/blob/master/Demo2.png)
