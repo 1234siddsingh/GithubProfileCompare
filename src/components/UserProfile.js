@@ -1,6 +1,5 @@
 import React from 'react';
 import Overview from './Overview';
-import Repos from './Repos';
 import People from './People';
 
 const viewBtn = {
