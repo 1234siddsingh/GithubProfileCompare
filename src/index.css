@@ -7,3 +7,10 @@ body {
 .card {
   margin-top: 20px;
 }
+#wearmask {
+  color:red;
+  font-size:30px;
+}
+.card-body{
+  text-align: center;
+}
